@@ -23,7 +23,7 @@ It sends the request to the API directly instead of using web browser agent like
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
-- Python (version X.X.X)
+- Python (version 3.9)
 - httpx
 - pandas
 - os
